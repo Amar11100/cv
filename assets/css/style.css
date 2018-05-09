@@ -1,0 +1,64 @@
+.contenaire
+{
+  width: 100%;
+  margin: auto;
+  display: flex;
+  background-color: #D5CFCC;;
+}
+/* .photo{
+  background-image: url(../img/Amar.jpg);
+} */
+h1
+{
+  font-size: 30px;
+}
+aside
+{
+  width: 30%;
+  margin-right: 10px;;
+  background-color: #5aa0d6;
+  color: white;
+}
+main
+{
+  width: 70%;
+  color: #948e8b;
+}
+.photo
+{
+  background-image: url("../img/Amar.jpg");
+	width: 100%;
+  height: 300px;
+}
+.icone
+{
+    width: 20%;
+    margin-left: 25px;
+    display: flex;
+    align-items: baseline;
+}
+.texte
+{
+  width: 80%;
+}
+.info
+{
+  display: flex;
+  align-items: baseline;
+}
+.experience
+{
+  height: 400px;
+  background-color: black;
+}
+section
+{
+
+background: blue;
+height: 400px;
+}
+footer
+{
+  height: 200px;
+  background-color: lightblue;
+}
