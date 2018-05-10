@@ -8,7 +8,10 @@
 h1
 {
   font-size: 30px;
+  padding-top: 50px;
+  color: black;
 }
+
 h3
 {
   font-size: 17px
@@ -23,6 +26,7 @@ aside
   width: 30%;
   margin-right: 10px;
   background-color: #5aa0d6;
+  box-shadow: 10px 5px 5px #767270;
   color: white;
 }
 main
@@ -42,7 +46,6 @@ main
 {
   text-align: center;
   padding-top: 150px;
-  color: #5aa0d6;
 }
 a
 {
@@ -87,7 +90,7 @@ background: white;
 }
 footer
 {
-  height: 143px;
+  height: 154px;
   box-shadow: 10px 5px 5px #767270;
   background-color: white;
 }
