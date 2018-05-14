@@ -8,8 +8,8 @@
 h1
 {
   font-size: 30px;
-  padding-top: 250px;
   color: white;
+  text-align:  center;
 }
 
 h3
@@ -34,16 +34,15 @@ main
   width: 70%;
   color: #948e8b;
 }
-.photo
-{
-  background-image: url("../img/Amar.jpg");
-  /* -webkit-filter: grayscale(100%); */
-  background-size: 100%;
+
+img{
+  max-width: 100%;
+  position:
+
 }
 .moi
 {
   text-align: center;
-  padding-top: 150px;
 }
 a
 {
@@ -82,10 +81,7 @@ box-shadow: 10px 5px 5px #767270;
 margin-bottom: 5px;
 background: white;
 }
-.para
-{
 
-}
 footer
 {
   height: 15%;
